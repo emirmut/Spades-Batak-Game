@@ -8,12 +8,4 @@ public class RealPlayer extends Player {
     public RealPlayer() { // Constructor
 
     }
-
-    /**
-     * calls Player constructor using super method with 'name' parameter
-     * @param name player's name
-     */
-    public RealPlayer(String name) { // Constructor
-
-    }
 }
