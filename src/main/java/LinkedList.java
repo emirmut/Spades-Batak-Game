@@ -39,6 +39,15 @@ public class LinkedList {
 
     }
 
+    /**
+     * returns the ith node in a linked list
+     * @param i index of the node
+     * @return the ith node in a linked list
+     */
+    public Node getNodeI(int i) {
+
+    }
+
     public String toString() {
         StringBuilder result = new StringBuilder();
         Node tmp = head;
