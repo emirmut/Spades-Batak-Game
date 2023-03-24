@@ -38,15 +38,23 @@ public class LinkedList {
     public int numberOfElements() {
 
     }
+    
+    /**
+     * returns the ith node in a linked list
+     * @param i index of the node
+     * @return the ith node in a linked list
+     */
+    public Node getNodeI(int i) {
 
+    }
+
+   /**
+     * transforms the linkedlist structure into string
+     * @return string version of the linkedlist
+    */
+    
     public String toString() {
-        StringBuilder result = new StringBuilder();
-        Node tmp = head;
-        while (tmp != null) {
-            result.append(tmp).append(" ");
-            tmp = tmp.getNext();
-        }
-        return result.toString();
+        
     }
 
     /**
