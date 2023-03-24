@@ -19,7 +19,15 @@ public class Deck {
     void shuffle() {
 
     }
+    
+    /**
+     * creates a hand and adds 13 cards to it, starting where the index is
+     * @return a brand-new hand containing 13 cards
+     */
+    Hand dealHand() {
 
+    }
+    
     /**
      * Prints every card of the deck
      * @return all cards in the deck
