@@ -1,12 +1,12 @@
 public class Node {
-    protected int data; // the number in the node
+    protected Card card; // the card in the node
     protected Node next; // next node of the current node
 
     /**
      *
-     * @param data the number in the node
+     * @param card the card in the node
      */
-    public Node(int data) { // Constructor
+    public Node(Card card) { // Constructor
 
     }
 
@@ -28,14 +28,9 @@ public class Node {
 
     /**
      *
-     * @return the number in the node
+     * @return the card in the node
      */
-    public int getData() { // getter
+    public Card getCard() { // getter
 
     }
-
-    public String toString(){
-
-    }
-
 }

@@ -1,5 +1,5 @@
 /**
- * Human is a player, who plays the Spades game, having a name and a hand.
+ * RealPlayer is a player, who plays the Spades game, having a name and a hand.
  */
 public class RealPlayer extends Player {
     /**
