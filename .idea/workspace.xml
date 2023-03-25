@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8266c61-47d2-4a40-a457-13bd450c7097" name="Changes" comment="" />
+    <list default="true" id="b8266c61-47d2-4a40-a457-13bd450c7097" name="Changes" comment="Just testing if my commitment displays on GitHub website or not.">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +57,6 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Hp/IdeaProjects/DataStructures&quot;
   }
 }</component>
@@ -95,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679685040288</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Just testing if my commitment displays on GitHub website or not.">
+      <created>1679688944248</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679688944248</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,6 +135,7 @@
     <MESSAGE value="Objects has been created.&#10;Some part of Card and Deck objects are done.&#10;Most of the part of LinkedList and Node objects are done." />
     <MESSAGE value="Card class has been complete.&#10;1 more method has been added to the Deck class.&#10;Hand class has been complete.&#10;1 more method has been added to the LinkedList class.&#10;RealPlayer class has been complete.&#10;Player class has been complete." />
     <MESSAGE value="1 method has been added to the LinkedList class.&#10;RealPlayer class has been complete." />
-    <option name="LAST_COMMIT_MESSAGE" value="1 method has been added to the LinkedList class.&#10;RealPlayer class has been complete." />
+    <MESSAGE value="Just testing if my commitment displays on GitHub website or not." />
+    <option name="LAST_COMMIT_MESSAGE" value="Just testing if my commitment displays on GitHub website or not." />
   </component>
 </project>
