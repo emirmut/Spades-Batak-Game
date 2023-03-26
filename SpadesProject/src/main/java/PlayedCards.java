@@ -13,7 +13,7 @@ public class PlayedCards {
     }
 
     /**
-     * adds a card to the memory using LinkedList's insertLast method
+     * adds a card to the playedCards using LinkedList's insertLast method
      * @param card card to be added to the linkedlist
      */
     public void add(Card card) {
