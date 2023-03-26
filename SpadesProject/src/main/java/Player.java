@@ -32,14 +32,6 @@ public class Player {
     }
 
     /**
-     * sets player's name
-     * @param name player's name
-     */
-    public void setName(String name) { // setter
-
-    }
-
-    /**
      * returns player's hand
      * @return player's hand
      */
