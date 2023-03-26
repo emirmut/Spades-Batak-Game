@@ -7,9 +7,10 @@
  */
 public class Bot extends Player {
     /**
-     * calls Player constructor using super method without parameters
+     * calls Player constructor using super method with a string parameter
+     * @param name bot's name
      */
-    public Bot() { // Constructor
+    public Bot(String name) { // Constructor
 
     }
 
