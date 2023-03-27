@@ -62,7 +62,7 @@ public class Card {
      * @param secondCard second card to compare with first card
      * @return 1 if firstCard > secondCard, -1 if secondCard > firstCard
      */
-    static int compareTo2(Card firstCard, Card secondCard) {
+    static int compareSuits(Card firstCard, Card secondCard) {
 
     }
 

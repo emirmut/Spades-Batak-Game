@@ -1,5 +1,7 @@
 public class Node {
     protected Card card; // the card in the node
+    protected Player player; // the player in the node
+    protected String string; // Bot or RealPlayer
     protected Node next; // next node of the current node
 
     /**
@@ -7,6 +9,22 @@ public class Node {
      * @param card the card in the node
      */
     public Node(Card card) { // Constructor
+
+    }
+
+    /**
+     *
+     * @param player the player in the node
+     */
+    public Node(Player player) { // Constructor
+
+    }
+
+    /**
+     *
+     * @param string a string having a value "Bot" or "RealPlayer" to determine the number of bot and real players.
+     */
+    public Node(String string) { // Constructor
 
     }
 
