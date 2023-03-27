@@ -13,6 +13,15 @@ public class Player {
     public Player() { // Constructor
 
     }
+    
+    /**
+     * creates a new bot-player with a specified name, but default hand, tricks bid and tricks taken
+     * since there will be 3 bot players.
+     * @param name name of the bot-player
+     */    
+    public Player(String name) { // Constructor
+        
+    }
 
     /**
      * creates a new bot-player with a specified name, but default hand, tricks bid and tricks taken
