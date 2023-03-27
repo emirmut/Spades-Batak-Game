@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8266c61-47d2-4a40-a457-13bd450c7097" name="Changes" comment="">
+    <list default="true" id="b8266c61-47d2-4a40-a457-13bd450c7097" name="Changes" comment="Constructor of Bot Class has been reworked.&#10;setName method has been deleted in Player class.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpadesProject/src/main/java/Bot.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpadesProject/src/main/java/Bot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpadesProject/src/main/java/Gameplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpadesProject/src/main/java/Gameplay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpadesProject/src/main/java/PlayedCards.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpadesProject/src/main/java/PlayedCards.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SpadesProject/src/main/java/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpadesProject/src/main/java/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679688944248</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Constructor of Bot Class has been reworked.&#10;setName method has been deleted in Player class.">
+      <created>1679938088150</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679938088150</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +143,7 @@
     <MESSAGE value="Card class has been complete.&#10;1 more method has been added to the Deck class.&#10;Hand class has been complete.&#10;1 more method has been added to the LinkedList class.&#10;RealPlayer class has been complete.&#10;Player class has been complete." />
     <MESSAGE value="1 method has been added to the LinkedList class.&#10;RealPlayer class has been complete." />
     <MESSAGE value="Just testing if my commitment displays on GitHub website or not." />
-    <option name="LAST_COMMIT_MESSAGE" value="Just testing if my commitment displays on GitHub website or not." />
+    <MESSAGE value="Constructor of Bot Class has been reworked.&#10;setName method has been deleted in Player class." />
+    <option name="LAST_COMMIT_MESSAGE" value="Constructor of Bot Class has been reworked.&#10;setName method has been deleted in Player class." />
   </component>
 </project>
