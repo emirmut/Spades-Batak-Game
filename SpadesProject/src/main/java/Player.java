@@ -7,10 +7,19 @@ public class Player {
     private String name; // name of the player
 
     /**
-     * creates a brand-new player with default hand, name, tricks bid, tricks taken
+     * creates a brand-new real-player with default hand, name, tricks bid, tricks taken
      * since there will be only one real player.
      */
     public Player() { // Constructor
+
+    }
+
+    /**
+     * creates a new bot-player with a specified name, but default hand, tricks bid and tricks taken
+     * since there will be 3 bot players.
+     * @param name name of the bot-player
+     */
+    public Player(String name) { // Constructor
 
     }
 
@@ -19,14 +28,6 @@ public class Player {
      * @return player's name
      */
     public String getName() { // getter
-
-    }
-
-    /**
-     * sets player's name
-     * @param name player's name
-     */
-    public void setName(String name) { // setter
 
     }
 

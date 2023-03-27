@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8266c61-47d2-4a40-a457-13bd450c7097" name="Changes" comment="Just testing if my commitment displays on GitHub website or not.">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b8266c61-47d2-4a40-a457-13bd450c7097" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpadesProject/src/main/java/Bot.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpadesProject/src/main/java/Bot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpadesProject/src/main/java/Gameplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpadesProject/src/main/java/Gameplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpadesProject/src/main/java/PlayedCards.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpadesProject/src/main/java/PlayedCards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpadesProject/src/main/java/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpadesProject/src/main/java/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
