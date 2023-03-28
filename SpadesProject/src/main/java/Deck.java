@@ -3,7 +3,7 @@
  * It can shuffle and deal the deck. 1 is ace, 11 is Jack, 12 is Queen, 13 is King.
  */
 public class Deck {
-    private LinkedList deck; // linked list of 52 cards
+    private final LinkedList deck = new LinkedList(); // linked list of 52 cards
 
     /**
      * Deck constructor creates a new linked list of 52 unique cards

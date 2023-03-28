@@ -51,4 +51,20 @@ public class Node {
     public Card getCard() { // getter
 
     }
+
+    /**
+     *
+     * @return the player in the node
+     */
+    public Player getPlayer() { // getter
+
+    }
+
+    /**
+     *
+     * @return the name of bot or real player as string in the node
+     */
+    public String getString() { // getter
+
+    }
 }

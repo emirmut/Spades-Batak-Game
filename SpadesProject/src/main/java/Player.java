@@ -5,6 +5,7 @@ public class Player {
     private Hand playersHand; // player's hand
     private boolean myTurn; // its value is true if the player has the turn to play
     private String name; // name of the player
+    private int tricksBid; // tricks bid by players
 
     /**
      * creates a brand-new real-player with default hand, name, tricks bid, tricks taken
@@ -60,6 +61,14 @@ public class Player {
      * @param turn true if the player has the turn to play, else false
      */
     public void setMyTurn(boolean turn) { // setter
+
+    }
+
+    /**
+     * returns tricks bid by bot player
+     * @return tricks bid by bot player
+     */
+    public int getTricksBid() { // getter
 
     }
 }
