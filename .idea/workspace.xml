@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8266c61-47d2-4a40-a457-13bd450c7097" name="Changes" comment="Method name has been changed in Card object.&#10;New methods have been added to the Gameplay object.">
-      <change afterPath="$PROJECT_DIR$/Test.java" afterDir="false" />
+    <list default="true" id="b8266c61-47d2-4a40-a457-13bd450c7097" name="Changes" comment="An instance variable has been reworked in Deck class.&#10;Some getters have been added to the Node class.&#10;New instance variable and new getter have been added to the Player class.&#10;Test class has been generated.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpadesProject/src/main/java/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpadesProject/src/main/java/Deck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpadesProject/src/main/java/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpadesProject/src/main/java/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpadesProject/src/main/java/Bot.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpadesProject/src/main/java/Bot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpadesProject/src/main/java/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpadesProject/src/main/java/Card.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SpadesProject/src/main/java/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpadesProject/src/main/java/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpadesProject/src/main/java/RealPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpadesProject/src/main/java/RealPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpadesProject/src/main/java/Suit.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpadesProject/src/main/java/Suit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpadesProject/src/main/java/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +71,7 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Hp\SpadesProject\SpadesProject\src\main\java" />
+      <recent name="C:\Users\Hp\SpadesProject\src\main" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -143,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680003652025</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="An instance variable has been reworked in Deck class.&#10;Some getters have been added to the Node class.&#10;New instance variable and new getter have been added to the Player class.&#10;Test class has been generated.">
+      <created>1680019038832</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1680019038832</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,6 +189,7 @@
     <MESSAGE value="error fix" />
     <MESSAGE value="Method name change in Card class.&#10;2 new variables has been added to the Node class.&#10;Some operations have been done in Gameplay class." />
     <MESSAGE value="Method name has been changed in Card object.&#10;New methods have been added to the Gameplay object." />
-    <option name="LAST_COMMIT_MESSAGE" value="Method name has been changed in Card object.&#10;New methods have been added to the Gameplay object." />
+    <MESSAGE value="An instance variable has been reworked in Deck class.&#10;Some getters have been added to the Node class.&#10;New instance variable and new getter have been added to the Player class.&#10;Test class has been generated." />
+    <option name="LAST_COMMIT_MESSAGE" value="An instance variable has been reworked in Deck class.&#10;Some getters have been added to the Node class.&#10;New instance variable and new getter have been added to the Player class.&#10;Test class has been generated." />
   </component>
 </project>

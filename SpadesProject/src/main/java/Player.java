@@ -6,13 +6,15 @@ public class Player {
     private boolean myTurn; // its value is true if the player has the turn to play
     private String name; // name of the player
     private int tricksBid; // tricks bid by players
+    private int tricksTaken // tricks taken by players
 
     /**
      * creates a brand-new real-player with default hand, name, tricks bid, tricks taken
      * since there will be only one real player.
      */
     public Player() { // Constructor
-
+        playersHand = null;
+        name = "Player";
     }
     
     /**
@@ -21,7 +23,8 @@ public class Player {
      * @param name name of the bot-player
      */    
     public Player(String name) { // Constructor
-        
+        playersHand = null;
+        this.name = name;
     }
 
     /**
@@ -29,7 +32,7 @@ public class Player {
      * @return player's name
      */
     public String getName() { // getter
-
+        return name;
     }
 
     /**
@@ -37,7 +40,7 @@ public class Player {
      * @return player's hand
      */
     public Hand getPlayersHand() { // getter
-
+        return playersHand;
     }
 
     /**
@@ -45,7 +48,7 @@ public class Player {
      * @param hand player's hand
      */
     public void setPlayersHand(Hand hand) { // setter
-
+        playersHand = hand;
     }
 
     /**
@@ -53,7 +56,7 @@ public class Player {
      * @return true if the player has the turn to play, else false
      */
     public boolean getMyTurn() { // getter
-
+        return myTurn;
     }
 
     /**
@@ -61,14 +64,22 @@ public class Player {
      * @param turn true if the player has the turn to play, else false
      */
     public void setMyTurn(boolean turn) { // setter
-
+        myTurn = turn;
     }
 
     /**
-     * returns tricks bid by bot player
-     * @return tricks bid by bot player
+     * returns tricks bid by a player
+     * @return tricks bid by a player
      */
     public int getTricksBid() { // getter
+        return tricksBid;
+    }
 
+    /**
+     * returns tricks taken by a player
+     * @return tricks taken by a player
+     */
+    public int getTricksTaken() { // getter
+        return tricksTaken;
     }
 }
