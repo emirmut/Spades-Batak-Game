@@ -9,7 +9,7 @@ public class PlayedCards {
      * creates a linkedlist storing cards
      */
     public PlayedCards() { // Constructor
-
+        playedCards = new LinkedList();
     }
 
     /**
@@ -17,15 +17,20 @@ public class PlayedCards {
      * @param card card to be added to the linkedlist
      */
     public void add(Card card) {
-
+        playedCards.insertLast(card);
     }
 
     /**
      * controls whether a particular card is in the playedCards
-     * @param card card to be controlled
+     * @param c card to be controlled
      * @return true if it is in the playedCards, false otherwise
      */
-    public boolean contains(Card card) {
-
+    public boolean contains(Card c) {
+        for (Card card : memory) {
+            if (card.getNumber() == c.getNumber() && card.getSuit() == c.getSuit()) {
+                return true;
+            }
+        }
+        return false;
     }
 }
