@@ -82,4 +82,12 @@ public class Player {
     public int getTricksTaken() { // getter
         return tricksTaken;
     }
+
+    /**
+     * this method allows real player and bot player to play a card from its hand
+     * @return card card that player played
+     */
+    public Card cardToPlay() {
+        playableCards(LinkedList playersHand, LinkedList pile);
+    }
 }

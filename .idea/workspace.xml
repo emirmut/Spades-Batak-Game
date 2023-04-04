@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8266c61-47d2-4a40-a457-13bd450c7097" name="Changes" comment="New instance variable and getter method has been added to the Player object. Also, methods have been implemented in Player class.&#10;One method is deleted from the Bot object due to redundancy. Also, playCardMain method has been implemented in Bot class.&#10;New method has been added to the RealPlayer object. Also, constructor of RealPlayer class has been implemented.&#10;Card class' methods have been implemented.&#10;Suit enum completed.">
+    <list default="true" id="b8266c61-47d2-4a40-a457-13bd450c7097" name="Changes" comment="Methods in Deck class have been implemented.&#10;Methods in Hand class have been implemented.&#10;Methods in PlayedCards class have been implemented.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpadesProject/src/main/java/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpadesProject/src/main/java/Deck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpadesProject/src/main/java/Hand.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpadesProject/src/main/java/Hand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpadesProject/src/main/java/Bot.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpadesProject/src/main/java/Bot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpadesProject/src/main/java/Gameplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpadesProject/src/main/java/Gameplay.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SpadesProject/src/main/java/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpadesProject/src/main/java/LinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SpadesProject/src/main/java/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpadesProject/src/main/java/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpadesProject/src/main/java/PlayedCards.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpadesProject/src/main/java/PlayedCards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpadesProject/src/main/java/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpadesProject/src/main/java/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpadesProject/src/main/java/RealPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpadesProject/src/main/java/RealPlayer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680382383841</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Methods in Deck class have been implemented.&#10;Methods in Hand class have been implemented.&#10;Methods in PlayedCards class have been implemented.">
+      <created>1680534994599</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1680534994599</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,6 +205,7 @@
     <MESSAGE value="Method name has been changed in Card object.&#10;New methods have been added to the Gameplay object." />
     <MESSAGE value="An instance variable has been reworked in Deck class.&#10;Some getters have been added to the Node class.&#10;New instance variable and new getter have been added to the Player class.&#10;Test class has been generated." />
     <MESSAGE value="New instance variable and getter method has been added to the Player object. Also, methods have been implemented in Player class.&#10;One method is deleted from the Bot object due to redundancy. Also, playCardMain method has been implemented in Bot class.&#10;New method has been added to the RealPlayer object. Also, constructor of RealPlayer class has been implemented.&#10;Card class' methods have been implemented.&#10;Suit enum completed." />
-    <option name="LAST_COMMIT_MESSAGE" value="New instance variable and getter method has been added to the Player object. Also, methods have been implemented in Player class.&#10;One method is deleted from the Bot object due to redundancy. Also, playCardMain method has been implemented in Bot class.&#10;New method has been added to the RealPlayer object. Also, constructor of RealPlayer class has been implemented.&#10;Card class' methods have been implemented.&#10;Suit enum completed." />
+    <MESSAGE value="Methods in Deck class have been implemented.&#10;Methods in Hand class have been implemented.&#10;Methods in PlayedCards class have been implemented." />
+    <option name="LAST_COMMIT_MESSAGE" value="Methods in Deck class have been implemented.&#10;Methods in Hand class have been implemented.&#10;Methods in PlayedCards class have been implemented." />
   </component>
 </project>

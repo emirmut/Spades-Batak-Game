@@ -8,12 +8,4 @@ public class RealPlayer extends Player {
     public RealPlayer() { // Constructor
       super();
     }
-
-  /**
-   * this method allows real player to play a card from his/her hand
-   * @return card that real player played
-   */
-    public Card cardToPlay() {
-
-    }
 }
